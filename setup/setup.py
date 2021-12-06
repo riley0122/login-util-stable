@@ -4,8 +4,8 @@ with open("README.md", "r") as fhandle:
     long_description = fhandle.read() # Your README.md file will be used as the long description!
 
 setuptools.setup(
-    name="login_util", # Put your username here!
-    version="0.0.3", # The version of your package!
+    name="loginUtil", # Put your username here!
+    version="0.0.4", # The version of your package!
     author="lucasammer", # Your name here!
     author_email="me@lucasammer.com", # Your e-mail here!
     description="login util", # A short description here!
