@@ -1,1 +1,1 @@
-import loginUtil.py
+from loginUtil import *
