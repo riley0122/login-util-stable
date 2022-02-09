@@ -5,7 +5,7 @@ with open("README.md", "r") as fhandle:
 
 setuptools.setup(
     name="loginUtil", # Put your username here!
-    version="0.0.5", # The version of your package!
+    version="0.0.6", # The version of your package!
     author="lucasammer", # Your name here!
     author_email="me@lucasammer.com", # Your e-mail here!
     description="login util", # A short description here!
